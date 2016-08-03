@@ -1,0 +1,25 @@
+{
+  "name": "gulp-edp-babel",
+  "version": "1.0.0",
+  "description": "EDP Babel Processor gulp plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecomfe/gulp-edp-babel.git"
+  },
+  "author": "leeight@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ecomfe/gulp-edp-babel/issues"
+  },
+  "homepage": "https://github.com/ecomfe/gulp-edp-babel#readme",
+  "dependencies": {
+    "babel": "^5.8.38",
+    "gulp-util": "^3.0.7",
+    "object-assign": "^4.1.0",
+    "through2": "^2.0.1"
+  }
+}
